@@ -9,7 +9,7 @@ Languages and Technologies:<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/120px-Unofficial_JavaScript_logo_2.svg.png" width="110px" height="110px" alt="JavaScript Logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" width="110px" height="110px" alt="Python Logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" width="110px" height="110px" alt="MySQL Logo"/>
-<img  src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" width="200px" height="100px" alt="MySQL Logo"/>
+<img  src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" width="200px" height="100px" alt="Docker Logo"/>
 <img src="https://git-scm.com/images/logo@2x.png" width="170px" height="110px" alt="Git Logo"/>
 
 
