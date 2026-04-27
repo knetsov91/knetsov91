@@ -22,7 +22,7 @@ I have interests spanning multiple domains:
 - **Java**: Spring Boot
 - **Python**: FastAPI
 - **Node.js**: Express.js
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, PostgreSQL, MongoDb
 
 ### **Frontend**
 - **Angular** | **React** | **TypeScript**
@@ -34,7 +34,22 @@ I have interests spanning multiple domains:
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- ## Projects
+### **Observability & Monitoring**
+
+- #### **Metrics & Dashboarding**
+    - **Prometheus** - Metrics collection and time-series database
+    - **Grafana** - Visualization and alerting dashboards
+
+- #### **Logging & Analytics**
+    - **Elasticsearch** - Centralized log aggregation and search
+    - **Kibana** - Log visualization and analysis
+
+- #### **Distributed Tracing**
+    - **OpenTelemetry** - Instrumentation for traces, metrics, and logs
+    - **Jaeger** - Trace visualization
+
+
+ ## Projects
 
 - **[E-Commerce Microservice](https://github.com/knetsov91/e-commerce-microservice)** - Java-based microservice architecture for e-commerce platform
 
