@@ -1,29 +1,40 @@
-## Hi there 👋 <br> I am Kosio and i have interests in different areas some of which are:
-- Backend
-- AI
-- Security
-- Cloud
+##  About Me
 
-Languages and Technologies:<br>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" width="110px" height="110px" alt="Java Logo"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/120px-Unofficial_JavaScript_logo_2.svg.png" width="110px" height="110px" alt="JavaScript Logo"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" width="110px" height="110px" alt="Python Logo"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" width="110px" height="110px" alt="MySQL Logo"/>
-<img  src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" width="200px" height="100px" alt="Docker Logo"/>
-<img src="https://git-scm.com/images/logo@2x.png" width="170px" height="110px" alt="Git Logo"/>
+I have interests spanning multiple domains:
+
+- **Backend Development** - Building server-side applications
+- **AI & Machine Learning** - Exploring neural networks and data science
+- **Security** - Interested in secure coding practices and infrastructure security
+- **Cloud Technologies** - AWS, Azure, and cloud-native solutions
+- **DevOps** - Infrastructure as Code, containerization,K8s and CI/CD
 
 
-<!--
-**knetsov91/knetsov91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### **Backend & Frameworks**
+- **Java**: Spring Boot
+- **Python**: FastAPI
+- **Node.js**: Express.js
+- **Databases**: MySQL, PostgreSQL
+
+### **Frontend**
+- **Angular** | **React** | **TypeScript**
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- ## Projects
+
+- **[E-Commerce Microservice](https://github.com/knetsov91/e-commerce-microservice)** - Java-based microservice architecture for e-commerce platform
+
