@@ -6,7 +6,7 @@ I have interests spanning multiple domains:
 - **AI & Machine Learning** - Exploring neural networks and data science
 - **Security** - Interested in secure coding practices and infrastructure security
 - **Cloud Technologies** - AWS, Azure, and cloud-native solutions
-- **DevOps** - Infrastructure as Code, containerization,K8s and CI/CD
+- **DevOps** - Infrastructure as Code, containerization, K8s and CI/CD
 
 
 ## Tech Stack
@@ -19,13 +19,16 @@ I have interests spanning multiple domains:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
  ### **Backend & Frameworks**
-- **Java**: Spring Boot
+- **Java**: Spring Boot, JUnit5, Hibernate
 - **Python**: FastAPI
 - **Node.js**: Express.js
 - **Databases**: MySQL, PostgreSQL, MongoDb
 
 ### **Frontend**
 - **Angular** | **React** | **TypeScript**
+
+### **AI & Machine Learning**
+- **Python**: TensorFlow, PyTorch, Hugging Face, Scikit-learn
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
