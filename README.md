@@ -55,4 +55,5 @@ I have interests spanning multiple domains:
  ## Projects
 
 - **[E-Commerce Microservice](https://github.com/knetsov91/e-commerce-microservice)** - Java-based microservice architecture for e-commerce platform
+- **[Social network](https://github.com/knetsov91/social-network)** - A microservices-based social network built with Java Spring Boot where users can create and like posts, follow each other, and chat in real time, using REST, Kafka, and WebSocket.
 
