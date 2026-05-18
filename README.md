@@ -54,6 +54,6 @@ I have interests spanning multiple domains:
 
  ## Projects
 
-- **[E-Commerce Microservice](https://github.com/knetsov91/e-commerce-microservice)** - Java-based microservice architecture for e-commerce platform
-- **[Social network](https://github.com/knetsov91/social-network)** - A microservices-based social network built with Java Spring Boot where users can create and like posts, follow each other, and chat in real time, using REST, Kafka, and WebSocket.
+- **[Social network](https://github.com/knetsov91/social-network)** - A social network backend split into seven Spring Boot 3 microservices using Java 21. Services register with Netflix Eureka and all traffic routes through Spring Cloud Gateway with JWT authentication. Users can post, like, follow, and chat in real time — Kafka handles async events between services, while STOMP over WebSocket powers live chat and presence (online/offline). Redis is used for caching and presence tracking, with each service having own database — PostgreSQL for users and posts, MySQL for relationships, and MongoDB for chat messages. Unit tests are covered with JUnit, and CI runs on GitHub Actions. Observability is implemented using Prometheus, Grafana and OpenTelemetry.
+
 
